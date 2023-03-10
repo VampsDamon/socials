@@ -242,19 +242,6 @@ links:
   #   Color: '#ffb142'
   #   Text_Color: '#ffffff'
 
-<<<<<<< HEAD
-  # - Name: Links
-  #   URL: https://github.com/VampsDamon/links
-  #   Icon-Class: fas fa-link
-  #   Color: '#d94869'
-  #   Text_Color: '#ffffff'
-=======
-  - Name: Links
-    URL: https://github.com/VampsDamon/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
->>>>>>> 3e464cb56cd1a48782ed14b9313986bd0cc08164
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
